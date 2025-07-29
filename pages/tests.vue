@@ -11,9 +11,9 @@
             </div>
 
             <div class="md:w-1/3 w-1/2 relative">
-                <img src="../assets/testsman.png" loading="lazy" alt="test page">
-                <img class="absolute bottom-0 md:bottom-[20%] -right-4 md:right-0  w-6 sm:w-12" src="../assets/Star9.png" loading="lazy" alt="">
-                <img class="absolute top-1/4 md:top-1/4 md:right-1/4 w-6 sm:w-12" src="../assets/Star9.png" loading="lazy" alt="">
+                <img src="../assets/images/testsman.png" loading="lazy" alt="test page">
+                <img class="absolute bottom-0 md:bottom-[20%] -right-4 md:right-0  w-6 sm:w-12" src="../assets/images/Star9.png" loading="lazy" alt="">
+                <img class="absolute top-1/4 md:top-1/4 md:right-1/4 w-6 sm:w-12" src="../assets/images/Star9.png" loading="lazy" alt="">
             </div>
 
         </div>

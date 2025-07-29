@@ -3,7 +3,7 @@
         <!-- Header with icon -->
         <div class="flex justify-between items-start ">
             <div class="">
-                <img src="../assets/testImage.png" loading="lazy" alt="Test Image">
+                <img src="../assets/images/testImage.png" loading="lazy" alt="Test Image">
             </div>
             <span class="bg-green-100 text-green-800 text-xs px-4 py-1 rounded-full font-medium whitespace-nowrap">{{
                 test.status }}</span>

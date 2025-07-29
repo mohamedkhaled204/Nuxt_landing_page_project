@@ -15,7 +15,7 @@ const allCourses = [
     students: "2,400",
     rating: 4.8,
     price: "100",
-    image: "../assets/education-basics.png",
+    image: "../assets/images/education-basics.png",
   },
   {
     title: "استراتيجيات التعلم النشط",
@@ -25,7 +25,7 @@ const allCourses = [
     students: "1,800",
     rating: 4.7,
     price: "150",
-    image: "../assets/education-basics2.png",
+    image: "../assets/images/education-basics2.png",
   },
   {
     title: "إدارة الصف الفعالة",
@@ -35,7 +35,7 @@ const allCourses = [
     students: "1,500",
     rating: 4.9,
     price: "200",
-    image: "../assets/education-basics3.png",
+    image: "../assets/images/education-basics3.png",
   },
   {
     title: "التقويم التربوي المعاصر",
@@ -45,7 +45,7 @@ const allCourses = [
     students: "2,100",
     rating: 4.6,
     price: "180",
-    image: "../assets/education-basics.png",
+    image: "../assets/images/education-basics.png",
   },
   {
     title: "تكنولوجيا التعليم",
@@ -55,7 +55,7 @@ const allCourses = [
     students: "3,200",
     rating: 4.8,
     price: "120",
-    image: "../assets/education-basics2.png",
+    image: "../assets/images/education-basics2.png",
   },
   {
     title: "التعلم الإلكتروني والتعليم عن بعد",
@@ -65,7 +65,7 @@ const allCourses = [
     students: "2,800",
     rating: 4.9,
     price: "250",
-    image: "../assets/education-basics3.png",
+    image: "../assets/images/education-basics3.png",
   },
   {
     title: "علم النفس التربوي",
@@ -75,7 +75,7 @@ const allCourses = [
     students: "1,900",
     rating: 4.7,
     price: "190",
-    image: "../assets/education-basics.png",
+    image: "../assets/images/education-basics.png",
   },
   {
     title: "التخطيط التربوي الاستراتيجي",
@@ -85,7 +85,7 @@ const allCourses = [
     students: "1,200",
     rating: 4.8,
     price: "220",
-    image: "../assets/education-basics2.png",
+    image: "../assets/images/education-basics2.png",
   },
   {
     title: "البحث العلمي في التربية",
@@ -95,7 +95,7 @@ const allCourses = [
     students: "950",
     rating: 4.6,
     price: "280",
-    image: "../assets/education-basics3.png",
+    image: "../assets/images/education-basics3.png",
   },
   {
     title: "الإرشاد النفسي والتربوي",
@@ -105,7 +105,7 @@ const allCourses = [
     students: "1,650",
     rating: 4.7,
     price: "170",
-    image: "../assets/education-basics.png",
+    image: "../assets/images/education-basics.png",
   },
   {
     title: "تطوير المناهج التعليمية",
@@ -115,7 +115,7 @@ const allCourses = [
     students: "1,100",
     rating: 4.9,
     price: "260",
-    image: "../assets/education-basics2.png",
+    image: "../assets/images/education-basics2.png",
   },
   {
     title: "التعليم المتمايز",
@@ -125,7 +125,7 @@ const allCourses = [
     students: "2,200",
     rating: 4.8,
     price: "160",
-    image: "../assets/education-basics3.png",
+    image: "../assets/images/education-basics3.png",
   }
 ];
 
@@ -153,9 +153,9 @@ function definePageMeta(arg0: { title: string; }) {
             <span class="text-sm md:text-base">من 2.5 الف تقييم</span>
           </div>
           <div class="flex items-center">
-            <img src="../assets/person1.jpg" class="w-10 md:w-16 h-10 md:h-16 aspect-square rounded-full" loading="lazy" alt="person">
-            <img src="../assets/person2.jpg" class="w-10 md:w-16 h-10 md:h-16 aspect-square rounded-full" loading="lazy" alt="person">
-            <img src="../assets/person3.jpg" class="w-10 md:w-16 h-10 md:h-16 aspect-square rounded-full" loading="lazy" alt="person">
+            <img src="../assets/images/person1.jpg" class="w-10 md:w-16 h-10 md:h-16 aspect-square rounded-full" loading="lazy" alt="person">
+            <img src="../assets/images/person2.jpg" class="w-10 md:w-16 h-10 md:h-16 aspect-square rounded-full" loading="lazy" alt="person">
+            <img src="../assets/images/person3.jpg" class="w-10 md:w-16 h-10 md:h-16 aspect-square rounded-full" loading="lazy" alt="person">
           </div>
 
         </div>
@@ -164,12 +164,12 @@ function definePageMeta(arg0: { title: string; }) {
           ابدأ رحلتك لسهولة الأن
         </button>
       </div>
-      <img src="../assets/person1.jpg" loading="lazy" class="w-14 md:w-20 h-14 md:h-20 rounded-full aspect-square absolute top-1/4 left-[8%] md:left-[15%]" alt="person">
-      <img src="../assets/person2.jpg" loading="lazy" class="w-14 md:w-20 h-14 md:h-20 rounded-full aspect-square absolute top-3/4 left-[10%] md:left-[20%]" alt="person">
-      <img src="../assets/person3.jpg" loading="lazy" class="w-14 md:w-20 h-14 md:h-20 rounded-full aspect-square absolute top-1/4 right-[8%] md:right-[15%]" alt="person">
-      <img src="../assets/person4.jpg" loading="lazy" class="w-14 md:w-20 h-14 md:h-20 rounded-full aspect-square absolute top-3/4 right-[10%] md:right-[20%]" alt="person">
-      <img src="../assets/Star8.png" loading="lazy" class="w-10 h-10 aspect-square absolute top-1/2 left-[20%]" alt="person">
-      <img src="../assets/Star9.png" loading="lazy" class="w-10 h-10 aspect-square absolute top-[60%] right-[15%]" alt="person">
+      <img src="../assets/images/person1.jpg" loading="lazy" class="w-14 md:w-20 h-14 md:h-20 rounded-full aspect-square absolute top-1/4 left-[8%] md:left-[15%]" alt="person">
+      <img src="../assets/images/person2.jpg" loading="lazy" class="w-14 md:w-20 h-14 md:h-20 rounded-full aspect-square absolute top-3/4 left-[10%] md:left-[20%]" alt="person">
+      <img src="../assets/images/person3.jpg" loading="lazy" class="w-14 md:w-20 h-14 md:h-20 rounded-full aspect-square absolute top-1/4 right-[8%] md:right-[15%]" alt="person">
+      <img src="../assets/images/person4.jpg" loading="lazy" class="w-14 md:w-20 h-14 md:h-20 rounded-full aspect-square absolute top-3/4 right-[10%] md:right-[20%]" alt="person">
+      <img src="../assets/images/Star8.png" loading="lazy" class="w-10 h-10 aspect-square absolute top-1/2 left-[20%]" alt="person">
+      <img src="../assets/images/Star9.png" loading="lazy" class="w-10 h-10 aspect-square absolute top-[60%] right-[15%]" alt="person">
 
 
     </div>

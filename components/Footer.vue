@@ -9,7 +9,7 @@
                 <div
                     class="space-y-6 flex flex-col items-center md:items-start flex-1 md:flex-[1_1_45%] lg:flex-[1_1_20%]">
                     <NuxtLink to="/" class="inline-block">
-                        <img src="../assets/whiteLogo.png" loading="lazy" alt="Logo" />
+                        <img src="../assets/images/whiteLogo.png" loading="lazy" alt="Logo" />
                     </NuxtLink>
                     <p class="text-base font-semibold leading-relaxed w-3/4 text-center md:text-right">
                         منــصة شاملة للتحضير للحصول عـــلى الرخصة المهنية للتعليم في المملكة العربية السعودية،
@@ -67,8 +67,8 @@
                 <div class="flex flex-col items-center md:items-start flex-1 md:flex-[1_1_45%] lg:flex-[1_1_15%]">
                     <p class="text-xl font-bold mb-4">التطبيقات</p>
                     <div class="flex flex-col items-center md:items-start gap-3">
-                        <img src="../assets/app-store.png" class="w-[141px]" loading="lazy" alt="App Store" />
-                        <img src="../assets/play-store.png" class="w-[141px]" loading="lazy" alt="Play Store" />
+                        <img src="../assets/images/app-store.png" class="w-[141px]" loading="lazy" alt="App Store" />
+                        <img src="../assets/images/play-store.png" class="w-[141px]" loading="lazy" alt="Play Store" />
                     </div>
                 </div>
 
@@ -78,10 +78,10 @@
                 <h4 class="text-base font-normal">© 2025 سهولة. جميع الحقوق محفوظة.</h4>
 
                 <div class="flex gap-2 items-center">
-                    <img src="../assets/knet.png" loading="lazy" alt="knet">
-                    <img src="../assets/mada_grey.png" loading="lazy" alt="mada_grey">
-                    <img src="../assets/visa.png" loading="lazy" alt="visa">
-                    <img src="../assets/mastercard.png" loading="lazy" alt="mastercard">
+                    <img src="../assets/images/knet.png" loading="lazy" alt="knet">
+                    <img src="../assets/images/mada_grey.png" loading="lazy" alt="mada_grey">
+                    <img src="../assets/images/visa.png" loading="lazy" alt="visa">
+                    <img src="../assets/images/mastercard.png" loading="lazy" alt="mastercard">
                 </div>
 
                 <div class="flex flex-col items-start gap-4">

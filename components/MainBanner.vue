@@ -1,6 +1,6 @@
 <template>
     <div class="container-width mb-10 md:my-10 flex flex-col-reverse md:flex-row items-center justify-between relative">
-        <img src="../assets/mainbannershadow.png" class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-0" loading="lazy" alt="Main Banner Shadow">
+        <img src="../assets/images/mainbannershadow.png" class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-0" loading="lazy" alt="Main Banner Shadow">
         <div class="w-full md:w-1/2 space-y-6 flex flex-col relative z-10">
             <h2 class="text-right text-[22px] md:text-[30px] xl:text-[45px] font-bold leading-relaxed">
                 <span class="text-primary text-2xl md:text-[30px] xl:text-[60px]">سهولة الاختبار العام</span>
@@ -20,7 +20,7 @@
             </div>
         </div>
         <div class="w-[95%] md:w-2/5 mr-5 relative z-10">
-            <img src="../assets/mainbanner.png" class="w-full h-full" loading="lazy" alt="Main Banner">
+            <img src="../assets/images/mainbanner.png" class="w-full h-full" loading="lazy" alt="Main Banner">
         </div>
     </div>
 </template>

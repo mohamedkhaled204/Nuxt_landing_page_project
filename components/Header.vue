@@ -3,7 +3,7 @@
     <div class="container-width mx-auto py-3">
       <div class="flex justify-between items-center">
         <NuxtLink to="/" class="flex items-center space-x-2 md:space-x-4">
-          <img src="../assets/سهولة الاختبرا الشعار 2.png" loading="lazy" alt="Logo" />
+          <img src="../assets/images/سهولة الاختبرا الشعار 2.png" loading="lazy" alt="Logo" />
         </NuxtLink>
 
         <button @click="isOpen = !isOpen" class="md:hidden focus:outline-none">
