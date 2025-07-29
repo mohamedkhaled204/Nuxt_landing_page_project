@@ -1,11 +1,6 @@
 ﻿<script setup lang="ts">
 import OurCourses from "~~/components/OurCourses.vue";
 
-definePageMeta({
-  title: "الدورات",
-});
-
-
 const allCourses = [
   {
     title: "أساسيات التربية والتعليم",
@@ -73,6 +68,11 @@ const allCourses = [
     level: "متوسط",
     duration: "55",
     students: "1,900",
+    rating: 4.7,
+    price: "190",
+    image: "../assets/images/education-basics.png",
+  },
+  {
     rating: 4.7,
     price: "190",
     image: "../assets/images/education-basics.png",
@@ -176,5 +176,3 @@ function definePageMeta(arg0: { title: string; }) {
     <OurCourses :courses="allCourses" />
   </div>
 </template>
-
-

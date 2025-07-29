@@ -1,10 +1,10 @@
 ﻿<template>
     <div class="container-width my-5 md:my-12">
         <!-- Heading -->
-        <div class="w-full md:w-2/3 mx-auto flex flex-col gap-4 md:gap-7 lg:gap-10 mb-2 md:mb-6 text-center"
+        <div class="w-full md:w-1/2 mx-auto flex flex-col gap-4 md:gap-7 lg:gap-10 mb-2 md:mb-6 text-center"
             v-if="!isCoursesPage">
             <h1 class="font-bold text-4xl md:text-[53px]">دوراتنا المعتمدة</h1>
-            <p class="text-base md:text-xl font-medium text-[#666666]">
+            <p class="text-base md:text-xl leading-9 font-medium text-[#666666]">
                 اختر من مجموعة متنوعة من الدورات المصممة خصيصاً لتلبية احتياجات المعلمين وفقاً لمعايير هيئة تقويم
                 التعليم والتدريب
             </p>
@@ -134,7 +134,7 @@ const defaultCourses = [
         students: "2,400",
         rating: 4.8,
         price: "100",
-        image: "../assets/education-basics.png",
+        image: "../assets/images/education-basics.png",
     },
     {
         title: "استراتيجيات التعلم النشط",
@@ -144,7 +144,7 @@ const defaultCourses = [
         students: "1,800",
         rating: 4.7,
         price: "150",
-        image: "../assets/education-basics2.png",
+        image: "../assets/images/education-basics2.png",
     },
     {
         title: "إدارة الصف الفعالة",
@@ -154,7 +154,7 @@ const defaultCourses = [
         students: "1,500",
         rating: 4.9,
         price: "200",
-        image: "../assets/education-basics3.png",
+        image: "../assets/images/education-basics3.png",
     },
     {
         title: "التقويم التربوي المعاصر",
@@ -164,7 +164,7 @@ const defaultCourses = [
         students: "2,100",
         rating: 4.6,
         price: "180",
-        image: "../assets/education-basics.png",
+        image: "../assets/images/education-basics.png",
     },
     {
         title: "تكنولوجيا التعليم",
@@ -174,7 +174,7 @@ const defaultCourses = [
         students: "3,200",
         rating: 4.8,
         price: "120",
-        image: "../assets/education-basics2.png",
+        image: "../assets/images/education-basics2.png",
     },
     {
         title: "التعلم الإلكتروني والتعليم عن بعد",
@@ -184,7 +184,7 @@ const defaultCourses = [
         students: "2,800",
         rating: 4.9,
         price: "250",
-        image: "../assets/education-basics3.png",
+        image: "../assets/images/education-basics3.png",
     },
     {
         title: "علم النفس التربوي",
@@ -194,7 +194,7 @@ const defaultCourses = [
         students: "1,900",
         rating: 4.7,
         price: "190",
-        image: "../assets/education-basics.png",
+        image: "../assets/images/education-basics.png",
     },
     {
         title: "التخطيط التربوي الاستراتيجي",
@@ -204,7 +204,7 @@ const defaultCourses = [
         students: "1,200",
         rating: 4.8,
         price: "220",
-        image: "../assets/education-basics2.png",
+        image: "../assets/images/education-basics2.png",
     },
     {
         title: "البحث العلمي في التربية",
@@ -214,7 +214,7 @@ const defaultCourses = [
         students: "950",
         rating: 4.6,
         price: "280",
-        image: "../assets/education-basics3.png",
+        image: "../assets/images/education-basics3.png",
     },
     {
         title: "الإرشاد النفسي والتربوي",
@@ -224,7 +224,7 @@ const defaultCourses = [
         students: "1,650",
         rating: 4.7,
         price: "170",
-        image: "../assets/education-basics.png",
+        image: "../assets/images/education-basics.png",
     },
     {
         title: "تطوير المناهج التعليمية",
@@ -234,7 +234,7 @@ const defaultCourses = [
         students: "1,100",
         rating: 4.9,
         price: "260",
-        image: "../assets/education-basics2.png",
+        image: "../assets/images/education-basics2.png",
     },
     {
         title: "التعليم المتمايز",
@@ -244,7 +244,7 @@ const defaultCourses = [
         students: "2,200",
         rating: 4.8,
         price: "160",
-        image: "../assets/education-basics3.png",
+        image: "../assets/images/education-basics3.png",
     }
 ];
 

@@ -1,7 +1,7 @@
 <template>
     <div class="flex items-center gap-2">
         <CheckIcon />
-        <span class="text-base md:text-xl font-medium text-primary">{{ text }}</span>
+        <span class="text-base md:text-xl font-extrabold text-primary">{{ text }}</span>
     </div>
 </template>
 

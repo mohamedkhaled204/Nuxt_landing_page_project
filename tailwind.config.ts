@@ -22,7 +22,7 @@ const config: Config = {
         background: 'hsl(var(--background))',
         foreground: 'hsl(var(--foreground))',
         primary: {
-          DEFAULT: "#047857", // Emerald 700
+          DEFAULT: "#0F6E32", // Emerald 700
           foreground: "#ffffff",
           50: "#ecfdf5",
           100: "#d1fae5", 

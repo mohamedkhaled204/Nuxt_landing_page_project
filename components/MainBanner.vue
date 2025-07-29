@@ -2,18 +2,17 @@
     <div class="container-width mb-10 md:my-10 flex flex-col-reverse md:flex-row items-center justify-between relative">
         <img src="../assets/images/mainbannershadow.png" class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-0" loading="lazy" alt="Main Banner Shadow">
         <div class="w-full md:w-1/2 space-y-6 flex flex-col relative z-10">
-            <h2 class="text-right text-[22px] md:text-[30px] xl:text-[45px] font-bold leading-relaxed">
+            <h1 class="text-right text-[22px] md:text-[30px] xl:text-[45px] font-black leading-relaxed">
                 <span class="text-primary text-2xl md:text-[30px] xl:text-[60px]">سهولة الاختبار العام</span>
                 <br>
                 رحلة متكاملة نحو أعلى الدرجات
-            </h2>
+            </h1>
 
             <div class="flex items-center flex-wrap gap-2 md:gap-4">
                 <BadgeItem v-for="badge in badges" :key="badge.id" :text="badge.text" />
             </div>
 
-            <p class="font-medium text-base md:text-xl text-right text-[#666666]"> للمعلمين والخريجين الطامحين للتميز
-                محتوى تعليمي شامل من ست محطات رئيسية</p>
+            <p class="font-medium text-base md:text-xl text-right text-[#3D3D3D]"> للمعلمين والخريجين الراغبين بالحصول عـلى الدرجات العالية.</p>
 
             <div class="flex flex-wrap 2xl:justify-start gap-x-20 gap-y-3 md:gap-y-5 text-right">
                 <FeatureItem v-for="feature in features" :key="feature.id" :text="feature.text" />

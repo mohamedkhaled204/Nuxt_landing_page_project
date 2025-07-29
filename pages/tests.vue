@@ -73,11 +73,6 @@
 // Import TestCard component
 import TestCard from '~~/components/TestCard.vue'
 
-// Page meta
-definePageMeta({
-    title: 'الاختبارات'
-})
-
 // Make sure ref is imported and used correctly
 const selectedFilter = ref('all')
 

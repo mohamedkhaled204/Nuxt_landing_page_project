@@ -1,9 +1,12 @@
 <template>
   <NuxtLayout>
-    <NuxtPage />
+    <NuxtPage :key="$route.fullPath" />
   </NuxtLayout>
 </template>
 
+<script setup>
+</script>
+
 <style>
-@import '../assets/css/tailwind.css';
+@import "../assets/css/tailwind.css";
 </style>

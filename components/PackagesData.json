@@ -1,0 +1,277 @@
+[
+    {
+        "id": 2,
+        "name": "الباقة الأساسية",
+        "image": "Crown",
+        "price_before_discount": 150,
+        "price_after_discount": 99,
+        "discount_percentage": 34,
+        "discount_value": 51,
+        "discount_duration": "2025-09-15T23:59:59Z",
+        "features": [
+            "الوصول إلى دورة واحدة فقط",
+            "اختبارات تدريبية بسيطة",
+            "دعم عبر البريد الإلكتروني",
+            "صالحة لمدة شهر واحد"
+        ],
+        "best_seller": false
+    },
+    {
+        "id": 1,
+        "name": "الباقة المتقدمة",
+        "image": "Star10",
+        "price_before_discount": 300,
+        "price_after_discount": 149,
+        "discount_percentage": 50,
+        "discount_value": 151,
+        "discount_duration": "2025-08-31T23:59:59Z",
+        "features": [
+            "الوصول إلى جميع الدورات",
+            "اختبارات تدريبية تحاكي الامتحان الفعلي",
+            "جلسات تدريب مباشرة",
+            "متابعة شخصية مع مدرب",
+            "ورش عمل تفاعلية",
+            "دعم فني على مدار الساعة",
+            "صالحة لمدة 3 أشهر"
+        ],
+        "best_seller": true
+    },
+    {
+        "id": 3,
+        "name": "الباقة الاحترافية",
+        "image": "Crown",
+        "price_before_discount": 500,
+        "price_after_discount": 350,
+        "discount_percentage": 30,
+        "discount_value": 150,
+        "discount_duration": "2025-10-01T23:59:59Z",
+        "features": [
+            "الوصول إلى جميع الدورات",
+            "جلسات استشارية شخصية",
+            "متابعة مباشرة مع المدربين",
+            "ورش عمل خاصة",
+            "صالحة لمدة 6 أشهر"
+        ],
+        "best_seller": false
+    },
+    {
+        "id": 2,
+        "name": "الباقة الأساسية",
+        "image": "Crown",
+        "price_before_discount": 150,
+        "price_after_discount": 99,
+        "discount_percentage": 34,
+        "discount_value": 51,
+        "discount_duration": "2025-09-15T23:59:59Z",
+        "features": [
+            "الوصول إلى دورة واحدة فقط",
+            "اختبارات تدريبية بسيطة",
+            "دعم عبر البريد الإلكتروني",
+            "صالحة لمدة شهر واحد"
+        ],
+        "best_seller": false
+    },
+    {
+        "id": 1,
+        "name": "الباقة المتقدمة",
+        "image": "Star10",
+        "price_before_discount": 300,
+        "price_after_discount": 149,
+        "discount_percentage": 50,
+        "discount_value": 151,
+        "discount_duration": "2025-08-31T23:59:59Z",
+        "features": [
+            "الوصول إلى جميع الدورات",
+            "اختبارات تدريبية تحاكي الامتحان الفعلي",
+            "جلسات تدريب مباشرة",
+            "متابعة شخصية مع مدرب",
+            "ورش عمل تفاعلية",
+            "دعم فني على مدار الساعة",
+            "صالحة لمدة 3 أشهر"
+        ],
+        "best_seller": true
+    },
+    {
+        "id": 3,
+        "name": "الباقة الاحترافية",
+        "image": "Crown",
+        "price_before_discount": 500,
+        "price_after_discount": 350,
+        "discount_percentage": 30,
+        "discount_value": 150,
+        "discount_duration": "2025-10-01T23:59:59Z",
+        "features": [
+            "الوصول إلى جميع الدورات",
+            "جلسات استشارية شخصية",
+            "متابعة مباشرة مع المدربين",
+            "ورش عمل خاصة",
+            "صالحة لمدة 6 أشهر"
+        ],
+        "best_seller": false
+    },
+    {
+        "id": 2,
+        "name": "الباقة الأساسية",
+        "image": "Crown",
+        "price_before_discount": 150,
+        "price_after_discount": 99,
+        "discount_percentage": 34,
+        "discount_value": 51,
+        "discount_duration": "2025-09-15T23:59:59Z",
+        "features": [
+            "الوصول إلى دورة واحدة فقط",
+            "اختبارات تدريبية بسيطة",
+            "دعم عبر البريد الإلكتروني",
+            "صالحة لمدة شهر واحد"
+        ],
+        "best_seller": false
+    },
+    {
+        "id": 1,
+        "name": "الباقة المتقدمة",
+        "image": "Star10",
+        "price_before_discount": 300,
+        "price_after_discount": 149,
+        "discount_percentage": 50,
+        "discount_value": 151,
+        "discount_duration": "2025-08-31T23:59:59Z",
+        "features": [
+            "الوصول إلى جميع الدورات",
+            "اختبارات تدريبية تحاكي الامتحان الفعلي",
+            "جلسات تدريب مباشرة",
+            "متابعة شخصية مع مدرب",
+            "ورش عمل تفاعلية",
+            "دعم فني على مدار الساعة",
+            "صالحة لمدة 3 أشهر"
+        ],
+        "best_seller": true
+    },
+    {
+        "id": 3,
+        "name": "الباقة الاحترافية",
+        "image": "Crown",
+        "price_before_discount": 500,
+        "price_after_discount": 350,
+        "discount_percentage": 30,
+        "discount_value": 150,
+        "discount_duration": "2025-10-01T23:59:59Z",
+        "features": [
+            "الوصول إلى جميع الدورات",
+            "جلسات استشارية شخصية",
+            "متابعة مباشرة مع المدربين",
+            "ورش عمل خاصة",
+            "صالحة لمدة 6 أشهر"
+        ],
+        "best_seller": false
+    },
+    {
+        "id": 2,
+        "name": "الباقة الأساسية",
+        "image": "Crown",
+        "price_before_discount": 150,
+        "price_after_discount": 99,
+        "discount_percentage": 34,
+        "discount_value": 51,
+        "discount_duration": "2025-09-15T23:59:59Z",
+        "features": [
+            "الوصول إلى دورة واحدة فقط",
+            "اختبارات تدريبية بسيطة",
+            "دعم عبر البريد الإلكتروني",
+            "صالحة لمدة شهر واحد"
+        ],
+        "best_seller": false
+    },
+    {
+        "id": 1,
+        "name": "الباقة المتقدمة",
+        "image": "Star10",
+        "price_before_discount": 300,
+        "price_after_discount": 149,
+        "discount_percentage": 50,
+        "discount_value": 151,
+        "discount_duration": "2025-08-31T23:59:59Z",
+        "features": [
+            "الوصول إلى جميع الدورات",
+            "اختبارات تدريبية تحاكي الامتحان الفعلي",
+            "جلسات تدريب مباشرة",
+            "متابعة شخصية مع مدرب",
+            "ورش عمل تفاعلية",
+            "دعم فني على مدار الساعة",
+            "صالحة لمدة 3 أشهر"
+        ],
+        "best_seller": true
+    },
+    {
+        "id": 3,
+        "name": "الباقة الاحترافية",
+        "image": "Crown",
+        "price_before_discount": 500,
+        "price_after_discount": 350,
+        "discount_percentage": 30,
+        "discount_value": 150,
+        "discount_duration": "2025-10-01T23:59:59Z",
+        "features": [
+            "الوصول إلى جميع الدورات",
+            "جلسات استشارية شخصية",
+            "متابعة مباشرة مع المدربين",
+            "ورش عمل خاصة",
+            "صالحة لمدة 6 أشهر"
+        ],
+        "best_seller": false
+    },
+    {
+        "id": 2,
+        "name": "الباقة الأساسية",
+        "image": "Crown",
+        "price_before_discount": 150,
+        "price_after_discount": 99,
+        "discount_percentage": 34,
+        "discount_value": 51,
+        "discount_duration": "2025-09-15T23:59:59Z",
+        "features": [
+            "الوصول إلى دورة واحدة فقط",
+            "اختبارات تدريبية بسيطة",
+            "دعم عبر البريد الإلكتروني",
+            "صالحة لمدة شهر واحد"
+        ],
+        "best_seller": false
+    },
+    {
+        "id": 1,
+        "name": "الباقة المتقدمة",
+        "image": "Star10",
+        "price_before_discount": 300,
+        "price_after_discount": 149,
+        "discount_percentage": 50,
+        "discount_value": 151,
+        "discount_duration": "2025-08-31T23:59:59Z",
+        "features": [
+            "الوصول إلى جميع الدورات",
+            "اختبارات تدريبية تحاكي الامتحان الفعلي",
+            "جلسات تدريب مباشرة",
+            "متابعة شخصية مع مدرب",
+            "ورش عمل تفاعلية",
+            "دعم فني على مدار الساعة",
+            "صالحة لمدة 3 أشهر"
+        ],
+        "best_seller": true
+    },
+    {
+        "id": 3,
+        "name": "الباقة الاحترافية",
+        "image": "Crown",
+        "price_before_discount": 500,
+        "price_after_discount": 350,
+        "discount_percentage": 30,
+        "discount_value": 150,
+        "discount_duration": "2025-10-01T23:59:59Z",
+        "features": [
+            "الوصول إلى جميع الدورات",
+            "جلسات استشارية شخصية",
+            "متابعة مباشرة مع المدربين",
+            "ورش عمل خاصة",
+            "صالحة لمدة 6 أشهر"
+        ],
+        "best_seller": false
+    }
+]

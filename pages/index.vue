@@ -1,7 +1,6 @@
 <script setup lang="ts">
-import MainBanner from "../../components/MainBanner.vue";
-import Features from "../../components/Features.vue";
-import Banner from "../../components/Banner.vue";
+import MainBanner from "~~/components/MainBanner.vue";
+import Features from "~~/components/Features.vue";
 import OurCourses from "~~/components/OurCourses.vue";
 import Ourpartners from "~~/components/Ourpartners.vue";
 import Ourpackages from "~~/components/Ourpackages.vue";
@@ -14,12 +13,11 @@ import OurTests from "~~/components/OurTests.vue";
     <div class="">
         <MainBanner />
         <Features />
-        <Banner />
         <OurCourses />
-        <Ourpartners />
-        <Ourpackages />
-        <Steps />
         <OurTests />
+        <Steps />
+        <Ourpackages />
+        <Ourpartners />
     </div>
 </template>
 

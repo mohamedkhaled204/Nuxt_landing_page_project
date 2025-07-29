@@ -4,6 +4,7 @@
         <div class="flex flex-col md:flex-row gap-4 md:gap-12 items-center justify-center w-2/3 mx-auto">
             <img src="../assets/images/Logo1.png" class="max-h-14" loading="lazy" alt="partner logo">
             <img src="../assets/images/logo2.png" class="max-h-14" loading="lazy" alt="partner logo">
+            <img src="../assets/images/visionlogo.png" class="max-h-14" loading="lazy" alt="partner logo">
             <img src="../assets/images/logo3.png" class="max-h-14" loading="lazy" alt="partner logo">
         </div>
     </div>
