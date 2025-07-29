@@ -1,5 +1,5 @@
 ﻿<script setup lang="ts">
-import OurCourses from "~/components/OurCourses.vue";
+import OurCourses from "~~/components/OurCourses.vue";
 
 definePageMeta({
   title: "الدورات",

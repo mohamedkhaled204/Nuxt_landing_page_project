@@ -4,7 +4,25 @@
 
 @layer components {
   .container-width {
-    @apply max-w-container mx-auto px-4 sm:px-6 lg:px-8;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  @media (min-width: 640px) {
+    .container-width {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .container-width {
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
   }
 }
 

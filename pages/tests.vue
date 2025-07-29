@@ -71,7 +71,7 @@
 
 <script setup>
 // Import TestCard component
-import TestCard from '~/components/TestCard.vue'
+import TestCard from '~~/components/TestCard.vue'
 
 // Page meta
 definePageMeta({
