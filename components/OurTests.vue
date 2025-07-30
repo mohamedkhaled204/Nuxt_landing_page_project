@@ -2,7 +2,7 @@
     <div class="container-width my-5 md:my-12" dir="rtl">
         <!-- Heading -->
         <div class="w-full md:w-2/3 mx-auto flex flex-col gap-4 md:gap-7 lg:gap-10 mb-2 md:mb-6 text-center">
-            <h1 class="font-bold text-4xl md:text-[53px]">اختبارات الرخصة المهنية</h1>
+            <h1 class="font-extrabold text-4xl md:text-[53px]">اختبارات الرخصة المهنية</h1>
             <p class="text-base md:text-xl font-medium text-[#666666]">
                 اجتز اختباراتنا المعتمدة واحصل على رخصتك المهنية للتعليم. جميع الاختبارات مصممة وفقاً لمعايير هيئة تقويم
                 التعليم والتدريب

@@ -6,6 +6,8 @@ import Ourpartners from "~~/components/Ourpartners.vue";
 import Ourpackages from "~~/components/Ourpackages.vue";
 import Steps from "~~/components/Steps.vue";
 import OurTests from "~~/components/OurTests.vue";
+import EducationTrip from "~/components/EducationTrip.vue";
+import TeachersReviews from "~/components/TeachersReviews.vue";
 
 </script>
 
@@ -13,6 +15,8 @@ import OurTests from "~~/components/OurTests.vue";
     <div class="">
         <MainBanner />
         <Features />
+        <EducationTrip />
+        <TeachersReviews />
         <OurCourses />
         <OurTests />
         <Steps />

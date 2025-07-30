@@ -25,7 +25,7 @@
 
     <div class="container-width my-5 md:my-16 space-y-24">
       <div class="text-center my-16 lg:my-28 w-full md:w-1/2 mx-auto">
-        <h1 class="font-bold text-4xl md:text-[53px] mb-6 md:mb-12">من نحن...</h1>
+        <h1 class="font-extrabold text-4xl md:text-[53px] mb-6 md:mb-12">من نحن...</h1>
         <p class="text-base md:text-xl xl:text-2xl leading-6 lg:leading-9 font-medium text-[#666666]">نحن سهولة، منصة
           سعودية إلكترونية تُعنى بإعداد المعلمين والمعلمات لاجتياز اختبار الرخصة المهنية بنجاح. نقدم محتوى مبني على
           معايير هيئة تقويم التعليم والتدريب، يشمل شروحات، اختبارات تجريبية، دورات مكثفة، ونصائح من خبراء تربويين.
@@ -112,11 +112,11 @@
 
 
       <div class="text-center my-16 lg:!my-32 w-full md:w-1/2 mx-auto space-y-12">
-        <h1 class="font-bold text-4xl md:text-[53px] mb-6 md:mb-12"> اشترك في النشرة البريدية</h1>
+        <h1 class="font-extrabold text-4xl md:text-[53px] mb-6 md:mb-12"> اشترك في النشرة البريدية</h1>
         <p class="text-base md:text-xl xl:text-2xl leading-6 lg:leading-9 font-medium text-[#666666]">نوصيك بالاشتراك في
           نشرتنا البريدية، فقط أدخل بريدك الإلكتروني أدناه لتصلك آخر التحديثات أولاً بأول.</p>
 
-        <div class="flex items-center gap-4">
+        <div class="flex items-center justify-center gap-4">
           <input type="text"
             class="bg-[#6666661A] text-[#666666] rounded-[22px] h-[53px] outline-none border-none md:w-[531px] px-5 text-end placeholder:text-base placeholder:text-[#66666652] placeholder:font-light"
             placeholder="Enter your email address">

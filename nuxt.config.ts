@@ -1,20 +1,18 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  compatibilityDate: '2025-07-15',
+  compatibilityDate: '2025-07-30',
   devtools: { enabled: true },
+  ssr: false, // Try SPA mode for development
+  
+  modules: ['@nuxtjs/tailwindcss', '@nuxt/icon'],
+  
+  css: ['~/assets/css/main.css'],
 
-  css: ['~/assets/css/tailwind.css'],
-
-  modules: [
-    'shadcn-nuxt',
-    '@nuxtjs/tailwindcss'
-  ],
-
-  // Vite/PostCSS config removed. Use postcss.config.js instead.
-
-  shadcn: {
-    prefix: '',
-    componentDir: './app/components/ui'
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
   },
 
   app: {
@@ -23,6 +21,18 @@ export default defineNuxtConfig({
         dir: 'rtl',
         lang: 'ar'
       }
+    }
+  },
+
+  nitro: {
+    prerender: {
+      routes: ['/login', '/register', '/about', '/contact', '/courses', '/packages', '/tests', '/library', '/privacy', '/terms']
+    }
+  },
+
+  router: {
+    options: {
+      hashMode: false
     }
   }
 })

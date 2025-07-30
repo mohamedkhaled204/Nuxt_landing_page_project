@@ -1,7 +1,7 @@
 <template>
     <div class="container-width my-5 md:my-12">
         <div class="text-center my-32 w-full md:w-1/2 mx-auto">
-            <h1 class="font-bold text-4xl md:text-[53px] mb-8">باقاتنا المميزة</h1>
+            <h1 class="font-extrabold text-4xl md:text-[53px] mb-8">باقاتنا المميزة</h1>
             <p class="text-base md:text-xl leading-9 font-medium text-[#666666]">اختر من مجموعة متنوعة من الدورات المصممة خصيصاً لتلبية احتياجات المعلمين وفقاً لمعايير هيئة تقويم التعليم والتدريب</p>
         </div>
 

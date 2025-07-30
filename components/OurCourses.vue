@@ -3,7 +3,7 @@
         <!-- Heading -->
         <div class="w-full md:w-1/2 mx-auto flex flex-col gap-4 md:gap-7 lg:gap-10 mb-2 md:mb-6 text-center"
             v-if="!isCoursesPage">
-            <h1 class="font-bold text-4xl md:text-[53px]">دوراتنا المعتمدة</h1>
+            <h1 class="font-extrabold text-4xl md:text-[53px]">دوراتنا المعتمدة</h1>
             <p class="text-base md:text-xl leading-9 font-medium text-[#666666]">
                 اختر من مجموعة متنوعة من الدورات المصممة خصيصاً لتلبية احتياجات المعلمين وفقاً لمعايير هيئة تقويم
                 التعليم والتدريب

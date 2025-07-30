@@ -87,22 +87,22 @@
                 <div class="flex flex-col items-start gap-4">
                     <p>تابعنا</p>
                     <div class="flex gap-4 justify-center">
-                        <NuxtLink to="https://facebook.com" target="_blank">
+                        <NuxtLink to="https://facebook.com" target="_self">
                             <Icon name="fa6-brands:facebook" size="24" />
                         </NuxtLink>
-                        <NuxtLink to="https://youtube.com" target="_blank">
+                        <NuxtLink to="https://youtube.com" target="_self">
                             <Icon name="fa6-brands:youtube" size="24" />
                         </NuxtLink>
-                        <NuxtLink to="https://linkedin.com" target="_blank">
+                        <NuxtLink to="https://linkedin.com" target="_self">
                             <Icon name="fa6-brands:linkedin" size="24" />
                         </NuxtLink>
-                        <NuxtLink to="https://snapchat.com" target="_blank">
+                        <NuxtLink to="https://snapchat.com" target="_self">
                             <Icon name="fa6-brands:snapchat" size="24" />
                         </NuxtLink>
-                        <NuxtLink to="https://twitter.com" target="_blank">
+                        <NuxtLink to="https://twitter.com" target="_self">
                             <Icon name="fa6-brands:x-twitter" size="24" />
                         </NuxtLink>
-                        <NuxtLink to="https://telegram.org" target="_blank">
+                        <NuxtLink to="https://telegram.org" target="_self">
                             <Icon name="fa6-brands:telegram" size="24" />
                         </NuxtLink>
                     </div>

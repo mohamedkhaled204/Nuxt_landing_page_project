@@ -1,6 +1,6 @@
 <template>
     <div class="container-width my-8 md:my-20">
-        <h1 class="font-bold text-4xl md:text-[53px] text-center mb-6 md:mb-12">
+        <h1 class="font-extrabold text-4xl md:text-[53px] text-center mb-6 md:mb-12">
             خطوات الحصول على رخصة
         </h1>
 

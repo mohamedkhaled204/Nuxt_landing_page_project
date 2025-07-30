@@ -1,5 +1,5 @@
 <template>
-    <div :class="packageItem.best_seller ? 'border-[#0F6E32] scale-[1.08] origin-bottom' : 'border-[#66666652] scale-y-1'"
+    <div :class="packageItem.best_seller ? 'border-[#0F6E32] md:scale-[1.08] origin-bottom' : 'border-[#66666652] scale-y-1'"
         class="relative rounded-2xl border p-6 w-full bg-white shadow-md space-y-5">
         <!-- Best Seller Badge -->
         <div v-if="packageItem.best_seller"

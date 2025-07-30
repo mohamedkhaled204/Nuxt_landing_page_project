@@ -1,7 +1,7 @@
 <template>
   <div class="container-width my-5 md:my-12">
     <div class="text-center mb-8">
-      <h1 class="text-4xl font-bold text-primary mb-4">مكتبة سهولة</h1>
+      <h1 class="text-4xl font-bold text-primary mb-6">مكتبة سهولة</h1>
       <p class="text-xl text-gray-600">مجموعة شاملة من الموارد التعليمية والمراجع</p>
     </div>
     

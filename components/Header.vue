@@ -29,12 +29,12 @@
 
         <!-- Buttons -->
         <div class="items-center gap-3 hidden md:flex">
-          <button class="bg-primary rounded-sm py-2 px-7 text-white text-sm font-bold">
+          <NuxtLink to="/register" class="bg-primary h-[36px] w-[126px] rounded-sm text-white text-sm font-bold flex items-center justify-center">
             إنشاء حساب
-          </button>
-          <button class="flex items-center gap-2 bg-[#f4f5f9] border rounded-sm py-[6px] px-3 text-sm font-bold">
+          </NuxtLink>
+          <NuxtLink to="/login" class="flex items-center justify-center h-[36px] w-[126px] gap-2 bg-[#f4f5f9] text-center border rounded-sm text-sm font-bold">
             تسجيل دخول
-          </button>
+          </NuxtLink>
         </div>
       </div>
 
@@ -64,14 +64,14 @@
           </div>
 
           <div class="mt-4 flex flex-col gap-2 px-3">
-            <button class="bg-primary rounded-sm py-2 px-7 text-white text-sm font-bold">
+            <NuxtLink to="/register" @click="isOpen = false" class="bg-primary rounded-sm py-2 px-7 text-white text-sm font-bold text-center">
               إنشاء حساب
-            </button>
-            <button
+            </NuxtLink>
+            <NuxtLink to="/login" @click="isOpen = false"
               class="flex items-center justify-center gap-2 bg-[#f4f5f9] border rounded-sm py-[7px] px-3 text-sm font-bold"
             >
               تسجيل دخول
-            </button>
+            </NuxtLink>
           </div>
         </div>
       </Transition>
